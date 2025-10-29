@@ -8,6 +8,10 @@ Atividades:
 
 
 
+
+
+
+
 2)	Elabore um algoritmo em JavaScript que leia 4 notas de um participante, exiba na tela a média final do participante. Veja o exemplo abaixo:
 
 <img width="1128" height="379" alt="image" src="https://github.com/user-attachments/assets/76c32fc4-28f7-4def-9127-09495efa9a49" />
@@ -16,11 +20,17 @@ CALCULAR MÉDIA = (NOTA1 + NOTA2 + NOTA3 + NOTA4) / 4
 
 
 
+
+
+
 3)	Elabore um algoritmo em JavaScript , que leia o Salário Bruto, o Adicional Noturno, as Horas Extras e os Descontos de um Colaborador, exiba na tela o Salário Líquido. Veja o exemplo abaixo:
 
 <img width="1129" height="379" alt="image" src="https://github.com/user-attachments/assets/c74f5f29-ce02-445c-bda3-4887e1383357" />
 
 SALÁRIO LÍQUIDO = SALÁRIO BRUTO + ADICIONAL NOTURNO + (HORAS EXTRAS * 5) - DESCONTOS
+
+
+
 
 
 
