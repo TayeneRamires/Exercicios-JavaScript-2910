@@ -1,6 +1,6 @@
 //Elabore um algoritmo em JavaScript que leia 4 notas de um participante, exiba na tela a média final do participante.
 //Importando a biblioteca
-const leia = require('readline-sync')
+const leia = require("readline-sync")
 
 //Variaveis
 let nota1, nota2, nota3, nota4, media;

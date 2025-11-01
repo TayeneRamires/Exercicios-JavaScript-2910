@@ -1,5 +1,5 @@
 //Importando a biblioteca
-const leia = require('readline-sync');
+const leia = require("readline-sync");
 console.log("Digite o código do produto: ");
 const codigo = leia.questionInt();
 const quantidade = leia.questionInt("Digite a quantidade: ");

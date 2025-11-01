@@ -1,5 +1,5 @@
 //Importando a biblioteca
-const leia = require('readline-sync');
+const leia = require("readline-sync");
 //Variaveis
 let numero;
 //Entrada de valores

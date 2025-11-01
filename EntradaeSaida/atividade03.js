@@ -1,6 +1,6 @@
 //Elabore um algoritmo em JavaScript , que leia o Salário Bruto, o Adicional Noturno, as Horas Extras e os Descontos de um Colaborador, exiba na tela o Salário Líquido.
 //Importando a biblioteca
-const leia = require('readline-sync')
+const leia = require("readline-sync")
 
 //Variaveis
 let SalarioBruto, AdicionalNoturno, HorasExtras, Descontos, SalarioLiquido;

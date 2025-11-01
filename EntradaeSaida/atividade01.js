@@ -1,6 +1,6 @@
 //Salário antigo 10000.00, recebeu abono de 1000.00, novo salário 11000.00
 //Importando a biblioteca
-const leia = require('readline-sync')
+const leia = require("readline-sync")
 
 //Variaveis
 let salario, abono, novosalario;
